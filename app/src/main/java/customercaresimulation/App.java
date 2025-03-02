@@ -8,7 +8,7 @@ package customercaresimulation;
   > Date Created: March 2, 2025
   > Author: Ishaan Rastogi
   > Project Name: Customer Care Call Simulation for Vistara Airlines
-  > Project Functionality: This project will simulate an IVR (Interactive synthesizer Response) system where a user navigates through different options, just like when calling customer support.
+  > Project Functionality: This project will simulate an IVR (Interactive Voice Response) system where a user navigates through different options, just like when calling customer support.
   > APIs used: FreeTTS (Text-to-Speech) API
   > Operating System: This is only for Windows OS, it may or may not work on other OS
   > Program Status: 100% Working
