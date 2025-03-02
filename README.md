@@ -62,7 +62,7 @@ app/
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
   
 ## License
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International Public License. See the [LICENSE](https://github.com/TridentifyIshaan/VaayuNetra/blob/cca180278d1da7978c79f5a6b1bf966a93410ce9/LICENSE) file for details.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International Public License. See the [LICENSE](https://github.com/TridentifyIshaan/CCS_Java/blob/91061b6b1c52bec89f1ac55c2a798c74c7eb1840/LICENSE) file for details.
 
 ### 🐈‍⬛ GitHub Profiles of Creators:
 
